@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govinda Mishra</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-![Programmer Thomas](https://cdn.dribbble.com/users/1028339/screenshots/3848914/attachments/10055456/programmer-thomas.png)
-
-
-
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindamishr&label=Profile%20views&color=0e75b6&style=flat" alt="govindamishr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/govinda37984655" target="blank"><img src="https://img.shields.io/twitter/follow/govinda37984655?logo=twitter&style=for-the-badge" alt="govinda37984655" /></a> </p>

@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govinda Mishra</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1028339/screenshots/3848914/attachments/10055456/programmer-thomas.png" alt="Programmer Thomas">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindamishr&label=Profile%20views&color=0e75b6&style=flat" alt="govindamishr" /> </p>

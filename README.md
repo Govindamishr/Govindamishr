@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govinda Mishra</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+"Passionate software developer proficient in Core Java, Spring Boot, Hibernate, OOPs concepts, C programming language, HTML, CSS, and JavaScript. Experienced in building robust applications using Core Java and OOPs principles. Skilled in developing feature-rich web applications with Spring Boot and creating seamless user interfaces using HTML, CSS, and JavaScript. Knowledgeable in Hibernate for efficient database management and possess a strong understanding of low-level programming concepts through C programming. Committed to writing clean, maintainable code and staying updated with the latest technologies. Actively seeking new opportunities to collaborate on exciting projects. Let's connect and discuss ideas to create innovative solutions in the world of software development!."
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindamishr&label=Profile%20views&color=0e75b6&style=flat" alt="govindamishr" /> </p>
 

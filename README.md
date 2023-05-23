@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,AWS**
 
-- 💬 Ask me about **Java Spring boot Hibernate Mysql C Html CSS**
+- 💬 Ask me about **Core Java   Spring Boot  Hibernate OOPs  Concepts   Mysql  C   Html   CSS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/govinda-mishra**
 

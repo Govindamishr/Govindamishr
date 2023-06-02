@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindamishr&show_icons=true&locale=en" alt="govindamishr" /></p>
 
-<img src="https://archive.org/download/cool-animated-gif-33/cool-animated-gif-33.gif" width="1000" height="500" alt="GIF">
+<img src="https://thumbs.gfycat.com/HandmadeLoathsomeAmazondolphin-max-1mb.gif" alt="Funny Dolphin GIF" width="800">
 
 
 

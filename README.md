@@ -37,7 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindamishr&show_icons=true&locale=en" alt="govindamishr" /></p>
 
-![GIF](https://archive.org/download/cool-animated-gif-33/cool-animated-gif-33.gif)
+<img src="https://archive.org/download/cool-animated-gif-33/cool-animated-gif-33.gif" width="1000" height="500" alt="GIF">
+
 
 
 

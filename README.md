@@ -37,8 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindamishr&show_icons=true&locale=en" alt="govindamishr" /></p>
 
-![Alt Text](https://thumbs.gfycat.com/HideousDependentGoldeneye-max-1mb.gif)
- ![Amazing GIF](https://thumbs.gfycat.com/HideousDependentGoldeneye-max-1mb.gif)
+<img src="https://wallpaperaccess.com/full/8406708.gif" alt="Alt Text" width="800">
 
 
 

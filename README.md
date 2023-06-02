@@ -32,6 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindamishr&show_icons=true&locale=en&layout=compact" alt="govindamishr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindamishr&show_icons=true&locale=en" alt="govindamishr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govindamishr&" alt="govindamishr" /></p>
-[<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)

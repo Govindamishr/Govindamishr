@@ -10,6 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/govinda37984655" target="blank"><img src="https://img.shields.io/twitter/follow/govinda37984655?logo=twitter&style=for-the-badge" alt="govinda37984655" /></a> </p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govindamishr&" alt="govindamishr" /></p>
+[<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
+
+
 - 🔭 I’m currently working on [Instagram App](https://github.com/Govindamishr/Instagram.git)
 
 - 🌱 I’m currently learning **React,AWS**

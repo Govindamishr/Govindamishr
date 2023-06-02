@@ -37,7 +37,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindamishr&show_icons=true&locale=en" alt="govindamishr" /></p>
 
-<img src="https://thumbs.gfycat.com/HandmadeLoathsomeAmazondolphin-max-1mb.gif" alt="Funny Dolphin GIF" width="800">
+![Alt Text](https://thumbs.gfycat.com/HideousDependentGoldeneye-max-1mb.gif)
+ ![Amazing GIF](https://thumbs.gfycat.com/HideousDependentGoldeneye-max-1mb.gif)
+
 
 
 

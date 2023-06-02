@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindamishr&show_icons=true&locale=en" alt="govindamishr" /></p>
 
-<img src="https://wallpaperaccess.com/full/8406708.gif" alt="Alt Text" width="800">
+<img src="https://wallpaperaccess.com/full/8406708.gif" alt="Alt Text" width="1000">
 
 
 

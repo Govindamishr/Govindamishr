@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Core Java   Spring Boot  Hibernate OOPs  Concepts   Mysql  C   Html   CSS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/govinda-mishra**
+- 📫 How to reach me **https://www.linkedin.com/in/govinda-k-mishra/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

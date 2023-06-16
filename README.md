@@ -40,6 +40,10 @@
 <img src="https://wallpaperaccess.com/full/8406708.gif" alt="Alt Text" width="1000">
 
 
+<a href="https://github.com/govindamishra/Profile-Readme-WakaTime"><img src="https://github.com/govindamishra/govindamishra/blob/main/images/stat.svg" alt="Govinda Mishra WakaTime Activity" align="center"/></a>
+
+
+
 
 
 
